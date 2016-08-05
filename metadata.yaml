@@ -1,0 +1,45 @@
+_repo: Mary-Stuart--A-Tragedy_6791
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Mellish, Joseph Charles
+    birthdate: 1768
+    deathdate: 1823
+    gutenberg_agent_id: '39972'
+    url: http://www.gutenberg.org/2009/agents/39972
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Friedrich von
+    - Schiller, Johann Christoph Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: Title; Contents; Dramatis Personae; ACT I; Scene I; Scene II; Scene III;
+  Scene IV; Scene V; Scene VI; Scene VII; Scene VIII; ACT II; Scene I; Scene II; Scene
+  III; Scene IV; Scene V; Scene VI; Scene VII; Scene VIII; Scene IX; ACT III; Scene
+  I; Scene II; Scene III; Scene IV; Scene V; Scene VI; Scene VII; Scene VIII; ACT
+  IV; Scene I; Scene II; Scene III; Scene IV; Scene V; Scene VI; Scene VII; Scene
+  VIII; Scene IX; Scene X; Scene XI; Scene XII; ACT V; Scene I; Scene II; Scene III;
+  Scene IV; Scene V; Scene VI; Scene VII; Scene VIII; Scene IX; Scene X; Scene XI;
+  Scene XII; Scene XIII; Scene XIV
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2004-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6791'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mary, Queen of Scots, 1542-1587 -- Drama'
+- !lcsh 'Scotland -- History -- Mary Stuart, 1542-1567 -- Drama'
+- !lcc 'PT'
+- !lcsh 'Great Britain -- History -- Elizabeth, 1558-1603 -- Drama'
+- GITenberg
+title: 'Mary Stuart: A Tragedy'
+url: http://www.gutenberg.org/ebooks/6791
