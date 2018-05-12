@@ -1,5 +1,5 @@
 _repo: Mary-Stuart--A-Tragedy_6791
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Mellish, Joseph Charles
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1823
     gutenberg_agent_id: '39972'
     url: http://www.gutenberg.org/2009/agents/39972
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -26,6 +29,8 @@ description: Title; Contents; Dramatis Personae; ACT I; Scene I; Scene II; Scene
   VIII; Scene IX; Scene X; Scene XI; Scene XII; ACT V; Scene I; Scene II; Scene III;
   Scene IV; Scene V; Scene VI; Scene VII; Scene VIII; Scene IX; Scene X; Scene XI;
   Scene XII; Scene XIII; Scene XIV
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6791#Mary-Stuart--A-Tragedy
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2004-12-08'
 gutenberg_type: Text
